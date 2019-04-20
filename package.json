@@ -1,0 +1,24 @@
+{
+  "name": "markdown-tools",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Zachary Jones <zachary@thorough.company> (https://thorough.company)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-typescript": "^7.3.3",
+    "@thorough/dev-configs": "^0.3.1",
+    "@types/common-tags": "^1.8.0",
+    "@types/jest": "^24.0.11",
+    "babel-jest": "^24.7.1",
+    "common-tags": "^1.8.0",
+    "jest": "^24.7.1",
+    "typescript": "^3.4.4"
+  }
+}
